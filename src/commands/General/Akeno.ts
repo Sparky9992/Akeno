@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `⚡ *Akeno* ⚡\n\n *Description: A modular WhatsApp Bot With Rich Anime Features developed by Fantox.*\n\n📓 *My GitHub URL: https://github.com/FantoX001/Akeno* \n\n 📒 *Akeno Guide: https://github.com/FantoX001/Akeno-Guides* \n`,
+				caption: *ಠ‿ಠ bishh you want repo👀* \n`,
 			}
 		);
 	};
