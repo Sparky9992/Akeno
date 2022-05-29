@@ -19,6 +19,10 @@ Deply Akeno form Heroku
 <br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/FantoX001/Akeno)
 <br/><br/>
 
+Deploy Akeno by fork
+<br>[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Sparky9992/Akeno)
+<br/><br/>
+
 
 </div><br/>
 <br/>
